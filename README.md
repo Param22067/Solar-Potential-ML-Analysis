@@ -27,3 +27,13 @@ This project uses a **Random Forest Regressor** to predict Global Horizontal Irr
 1. Open `Solar_Suitability_Analysis.ipynb` in Google Colab.
 2. Authenticate your Google Earth Engine account when prompted.
 3. Run all cells to generate the interactive maps and validation plots.
+
+
+
+
+<img width="429" height="568" alt="Screenshot 2026-02-01 115310" src="https://github.com/user-attachments/assets/d13c485e-7e0e-4351-9cc3-72f20aaf9386" />
+
+<img width="1061" height="718" alt="Screenshot 2026-01-17 110244" src="https://github.com/user-attachments/assets/5cbdabac-95b7-47b2-ad58-1dfab506da36" />
+
+
+
